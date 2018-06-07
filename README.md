@@ -1,3 +1,3 @@
 # gulp
 
-## simple gulp config for coding websites
+simple gulp config for coding websites
